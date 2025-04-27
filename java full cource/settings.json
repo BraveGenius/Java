@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "livePreview.hostIP": "172.16.22.176",
+    "livePreview.defaultPreviewPath": "sigma  web development cource/vedio4/Bookmark.html"
+}
